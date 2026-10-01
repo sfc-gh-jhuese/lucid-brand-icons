@@ -35,6 +35,10 @@ Skill location: `~/.snowflake/cortex/skills/lucid-architecture-diagrams`
 
 ## Sources
 
+- CRM Analytics: Lucid's built-in Salesforce Architecture product icon,
+  `SFACRMAnalyticsBlock`, exported alone as a 512x512 PNG on 2026-10-01.
+  See [Salesforce sources](SALESFORCE-SOURCES.md). This is a product architecture
+  icon, not the Salesforce corporate logo or the separate Tableau logo.
 - Full colour logos: gilbarbara/logos and devicon, rasterised via wsrv.nl.
 - Brands with no colour logo anywhere: Google's favicon service for the vendor's
   domain. Genuine mark, but low resolution and visibly softer.
