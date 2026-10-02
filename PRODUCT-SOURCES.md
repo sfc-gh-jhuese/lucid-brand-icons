@@ -31,3 +31,26 @@ or internal presentation crops are included.
   Azure AI Foundry alias is retained for diagrams of existing environments.
 
 These marks identify their respective products, not products of this repository.
+## Datadobi
+
+- File: `png/datadobi.png`, 512 x 115 pixels.
+- Source: official Datadobi website logo, https://datadobi.com/wp-content/uploads/2025/07/dark_logo.svg
+- Processing: SVG rasterized via wsrv.nl at width 512; no recoloring or distortion.
+- SHA-256: `002bf9ea342de37490a9da52f4d9ebe237898ae0631a99865e6aaf6d13112d61 d69bb14c4137ad228f6104ee81c8db3a850ff43845cc0bbc8c1cec413b7b71df 8a3bcdbdb02745bcef540854ee7914463ab81de07434c2c92919848c9a675542 `.
+- Retrieved and visually checked: 2026-10-02.
+
+## Dell
+
+- File: `png/dell.png`, 512 x 512 pixels.
+- Source: Wikimedia Commons, https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg (Dell trademark).
+- Processing: SVG rasterized via wsrv.nl at width 512; no recoloring or distortion.
+- SHA-256: ``.
+- Retrieved and visually checked: 2026-10-02.
+
+## NetApp
+
+- File: `png/netapp.png`, 512 x 92 pixels.
+- Source: Wikimedia Commons, https://upload.wikimedia.org/wikipedia/commons/e/e8/NetApp_logo_2020.svg (NetApp trademark, 2020 identity).
+- Processing: SVG rasterized via wsrv.nl at width 512; no recoloring or distortion.
+- SHA-256: ``.
+- Retrieved and visually checked: 2026-10-02.
