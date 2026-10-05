@@ -54,3 +54,43 @@ These marks identify their respective products, not products of this repository.
 - Processing: SVG rasterized via wsrv.nl at width 512; no recoloring or distortion.
 - SHA-256: ``.
 - Retrieved and visually checked: 2026-10-02.
+
+## Simacan
+
+- File: `png/simacan.png`, 512 x 119 pixels.
+- Source: Simacan B.V. official website header logo.
+- Original: https://simacan.com/wp-content/uploads/2024/11/Simacan_Logo-1024x237.webp
+- Processing: WebP converted to PNG with Pillow, transparent margins cropped.
+- SHA-256: `4dc6de1fb40d73944681cd16be47934b766259339e9001df7cb858ee7452281f`.
+- Trademark of its owner; used only to identify the company in architecture diagrams.
+- Retrieved and visually checked: 2026-10-05.
+
+## Boels
+
+- File: `png/boels.png`, 512 x 238 pixels.
+- Source: Wikimedia Commons, File:Logo_Boels_Rental.svg.
+- Original: https://commons.wikimedia.org/wiki/File:Logo_Boels_Rental.svg
+- Processing: SVG rasterized locally with resvg, cropped.
+- SHA-256: `3c5cbcaa25f7abb3288be5fd8eb151eb6a5f6e45a2695eeecb3ad1fbbad46f7f`.
+- Trademark of its owner; used only to identify the company in architecture diagrams.
+- Retrieved and visually checked: 2026-10-05.
+
+## ANWB
+
+- File: `png/anwb.png`, 512 x 262 pixels.
+- Source: ANWB official website navigation logo.
+- Original: https://static.anwb.nl/poncho/navigation/images/logo.svg
+- Processing: SVG rasterized locally with resvg, cropped.
+- SHA-256: `32c8d0d922f09be0a847c3e96592038d00f592756e0a0ba6bbb429af766f03a7`.
+- Trademark of its owner; used only to identify the company in architecture diagrams.
+- Retrieved and visually checked: 2026-10-05.
+
+## DHL
+
+- File: `png/dhl.png`, 512 x 113 pixels.
+- Source: Wikimedia Commons, File:DHL_Logo.svg.
+- Original: https://commons.wikimedia.org/wiki/File:DHL_Logo.svg
+- Processing: SVG rasterized locally with resvg, cropped.
+- SHA-256: `d8eb5f25e0dd9f1438ce49968b25654ce83799836c38db98d8b6aa6ed4a200f0`.
+- Trademark of its owner; used only to identify the company in architecture diagrams.
+- Retrieved and visually checked: 2026-10-05.
