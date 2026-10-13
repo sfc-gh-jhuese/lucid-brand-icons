@@ -118,3 +118,11 @@ These marks identify their respective products, not products of this repository.
 - Processing: SVG rasterized via wsrv.nl at 512px, trimmed.
 - Trademark of its owner; used only to identify the product in architecture diagrams.
 - Retrieved and visually checked: 2026-10-13.
+
+
+## lowi.png
+- File: `png/lowi.png`, 512 x 512.
+- Source: Lowi public site app icon, https://lowi.ai/icon.svg.
+- Processing: SVG rasterized via wsrv.nl at 512px.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-13.
