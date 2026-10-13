@@ -94,3 +94,27 @@ These marks identify their respective products, not products of this repository.
 - SHA-256: `d8eb5f25e0dd9f1438ce49968b25654ce83799836c38db98d8b6aa6ed4a200f0`.
 - Trademark of its owner; used only to identify the company in architecture diagrams.
 - Retrieved and visually checked: 2026-10-05.
+
+
+## dynamics-365-business-central.png
+- File: `png/dynamics-365-business-central.png`.
+- Source: Microsoft official Business Central icon pack, https://aka.ms/BCicon (BusinessCentralIconVisualAssets.zip, PNG 256x256).
+- Processing: Official PNG, transparent padding trimmed. Microsoft usage terms in the pack README apply: unmodified, identify the product only.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-13.
+
+
+## exact.png
+- File: `png/exact.png`.
+- Source: Exact official site mark, https://www.exact.com/media/templates/site/exact/images/favicon/favicon.svg.
+- Processing: SVG rasterized via wsrv.nl at 512px, trimmed.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-13.
+
+
+## yuki-by-visma.png
+- File: `png/yuki-by-visma.png`.
+- Source: Yuki official site header logo, https://www.yukisoftware.com/images/spa/logo--header.svg.
+- Processing: SVG rasterized via wsrv.nl at 512px, trimmed.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-13.

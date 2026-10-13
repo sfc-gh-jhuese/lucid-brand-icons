@@ -18,6 +18,7 @@ Source landing page: https://www.snowflake.com/brand-guidelines/
 | `png/snowflake-search.png` | Slide 76 (general icons), shape 3562, labeled Search | Same process. |
 | `png/snowflake-sql-analysts.png` | Slide 78 (general icons), shape 4082, labeled SQL Analysts | Same process. |
 | `png/snowflake-metadata.png` | Slide 78 (general icons), shape 4286, labeled Metadata | Same process. |
+| `png/snowflake-iceberg-tables.png` | Slide 74, shape 3064, labeled Iceberg Tables | Same process (DrawingML group paths rendered locally, even-odd fill, trimmed). |
 
 The template has no dedicated marks for Cortex Analyst, Cortex Agent or Semantic
 Views. Diagrams use the labeled general icons above (SQL Analysts, Snowflake
