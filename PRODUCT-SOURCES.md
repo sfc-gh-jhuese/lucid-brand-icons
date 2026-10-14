@@ -126,3 +126,95 @@ These marks identify their respective products, not products of this repository.
 - Processing: SVG rasterized via wsrv.nl at 512px.
 - Trademark of its owner; used only to identify the product in architecture diagrams.
 - Retrieved and visually checked: 2026-10-13.
+
+## databricks
+- File: `png/databricks.png`, 1024 x 226.
+- Source: Databricks, Inc. (official databricks-sdk-py docs logo), https://raw.githubusercontent.com/databricks/databricks-sdk-py/main/docs/images/databricks-logo.svg.
+- Processing: rasterised at 1600px via wsrv.nl (PNG sources used as-is), transparent padding trimmed to a 4% margin, no recolouring or distortion.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## fivetran
+- File: `png/fivetran.png`, 1024 x 339.
+- Source: Fivetran Inc. (fivetran.com/brand asset), https://cdn.prod.website-files.com/6130fa1501794ed4d11867ba/63d9599008ad50523f8ce26a_logo.svg.
+- Processing: rasterised at 1600px via wsrv.nl (PNG sources used as-is), transparent padding trimmed to a 4% margin, no recolouring or distortion.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## apache-airflow
+- File: `png/apache-airflow.png`, 742 x 742.
+- Source: Apache Software Foundation (apache/airflow repo, transparent logo), https://raw.githubusercontent.com/apache/airflow/main/airflow-core/docs/img/logos/airflow_transparent.png.
+- Processing: rasterised at 1600px via wsrv.nl (PNG sources used as-is), transparent padding trimmed to a 4% margin, no recolouring or distortion.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## apache-nifi
+- File: `png/apache-nifi.png`, 752 x 1024.
+- Source: Apache Software Foundation (apache/nifi-site drop logo), https://raw.githubusercontent.com/apache/nifi-site/main/themes/nifi/static/images/apache-nifi-drop-logo.svg.
+- Processing: rasterised at 1600px via wsrv.nl (PNG sources used as-is), transparent padding trimmed to a 4% margin, no recolouring or distortion.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## mqtt
+- File: `png/mqtt.png`, 1024 x 299.
+- Source: MQTT.org / OASIS (mqtt.org site logo), https://mqtt.org/assets/img/mqtt-logo.svg.
+- Processing: rasterised at 1600px via wsrv.nl (PNG sources used as-is), transparent padding trimmed to a 4% margin, no recolouring or distortion.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+
+## apache-parquet
+- File: `png/apache-parquet.png`, 1501 x 1196.
+- Source: Apache Software Foundation, official mark from apache/parquet-format, https://raw.githubusercontent.com/apache/parquet-format/master/logo/parquet-logos_1.svg (Apache License 2.0 header in file).
+- Processing: SVG rasterised locally with macOS Quick Look at 1600px, white background made transparent, padding trimmed to a 4% margin, no recolouring or distortion. The parquet-site logo.svg/logo.png were rejected: they render as a pale wireframe / white-on-transparent.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## docker
+- File: `png/docker.png`, 1104 x 300.
+- Source: Docker Inc. media resources page, Docker-Logos-1.zip, docker-logo-ocean-blue.svg (current 2024 lockup; the third-party copy was the outdated whale and is rejected).
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## datadog
+- File: `png/datadog.png`, 1296 x 1296.
+- Source: Datadog press kit Logo_Assets.zip, DD Vector Logos/Vertical/SVG/dd_logo_v_rgb.svg.
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## github
+- File: `png/github.png`, 422 x 410.
+- Source: GitHub brand toolkit brand.github.com/GitHub_Logos.zip, GitHub_Invertocat_Black.svg.
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## gitlab
+- File: `png/gitlab.png`, 778 x 720.
+- Source: GitLab artwork repo gitlab.com/gitlab-com/gitlab-artwork logo/logo-extra-whitespace.svg (tanuki mark).
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## grafana
+- File: `png/grafana.png`, 1056 x 1101.
+- Source: grafana/grafana repo public/img/grafana_icon.svg.
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## hugging-face
+- File: `png/hugging-face.png`, 1854 x 491.
+- Source: huggingface.co/brand, brand-assets dataset hf-logo-with-title.svg.
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.
+
+## apache-flink
+- File: `png/apache-flink.png`, 1069 x 1077.
+- Source: flink.apache.org/material, img/logo/png/1000/flink_squirrel_1000.png (ASF).
+- Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
+- Trademark of its owner; used only to identify the product in architecture diagrams.
+- Retrieved and visually checked: 2026-10-14.

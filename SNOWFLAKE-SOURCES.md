@@ -27,3 +27,21 @@ the colors the template's icon guidance (slide 72) permits. Extraction was
 verified by re-extracting Openflow and comparing it with the published asset.
 
 Artwork remains Snowflake's. This records provenance, not a grant of additional trademark or redistribution rights. No customer data or internal presentation content is included.
+## Snowflake 2026 template, slide 74 product feature icons (added 2026-10-14)
+- Source: Snowflake 2026 corporate template, public brand-guidelines download https://www.snowflake.com/wp-content/themes/snowflake/assets/img/brand-guidelines/downloads/Snowflake_Template_2026.potx.zip, slide 74 'Icons: Snowflake Product Features', REV 3.5.26.
+- Processing: original DrawingML vector paths converted to SVG locally (drawingml_to_svg.py v2, bounding box from shape xfrm), rasterised, white render background removed from the corners. No recolouring.
+- Files:
+  - `png/snowflake-gen2-warehouse.png` - Gen2 Warehouse (512 x 512)
+  - `png/snowflake-adaptive-warehouse.png` - Adaptive Warehouse (512 x 512)
+  - `png/snowflake-snowpark-warehouse.png` - Snowpark-optimized Warehouse (512 x 512)
+  - `png/snowflake-interactive-warehouse.png` - Interactive Warehouse (512 x 512)
+  - `png/snowflake-horizon.png` - Snowflake Horizon (512 x 512)
+  - `png/snowflake-external-tables.png` - External Tables (512 x 512)
+  - `png/snowflake-hybrid-tables.png` - Hybrid Tables (512 x 512)
+  - `png/snowflake-chat-apis.png` - Chat APIs (512 x 512)
+  - `png/snowflake-interactive-tables.png` - Interactive Tables (512 x 512)
+  - `png/snowflake-native-app.png` - Snowflake Native App (512 x 512)
+  - `png/snowflake-spark-connect.png` - Spark Connect (512 x 512)
+  - `png/snowflake-snowconvert-ai.png` - SnowConvert AI (512 x 512)
+  - `png/snowflake-snowpark-ml-modeling.png` - Snowpark ML Modeling (512 x 512)
+  - `png/snowflake-universal-search.png` - Universal Search (512 x 512)
