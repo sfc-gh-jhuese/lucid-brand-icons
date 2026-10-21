@@ -218,3 +218,9 @@ These marks identify their respective products, not products of this repository.
 - Processing: Rasterised locally from the vendor file, white render background removed, trimmed to a 4% margin, no recolouring.
 - Trademark of its owner; used only to identify the product in architecture diagrams.
 - Retrieved and visually checked: 2026-10-14.
+
+## AWS Architecture Icons (official)
+
+- `png/aws-amazon-rds.png` = `Arch_Amazon-RDS_64@5x.png`
+- `png/aws-amazon-s3.png` = `Arch_Amazon-Simple-Storage-Service_64@5x.png`
+- Source: AWS Architecture Icons package, release 07-31-2026, https://aws.amazon.com/architecture/icons/ (unmodified 400x400 PNG). AWS permits use of these icons in architecture diagrams per its published icon terms.
